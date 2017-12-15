@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div>
+    Sign In Component
   </div>
 </template>
 <script>
@@ -8,4 +8,3 @@ export default {
   
 }
 </script>
-

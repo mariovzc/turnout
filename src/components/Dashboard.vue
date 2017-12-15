@@ -1,11 +1,10 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+ <div>
+    dashboard Component
+  </div> 
 </template>
 <script>
 export default {
   
 }
 </script>
-
