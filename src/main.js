@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './components/App'
 import VueRouter from 'vue-router'
-import { firebaseApp } from './firebaseapp'
+import { firebaseApp } from './firebaseApp'
 
 Vue.use(VueRouter)
 

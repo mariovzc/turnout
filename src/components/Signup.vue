@@ -24,7 +24,7 @@
   </div>
 </template>
 <script>
-import firebaseApp  from 'firebase'
+import {firebaseApp}  from '../firebaseApp'
 export default {
   data () {
     return {
